@@ -88,14 +88,14 @@ modes:
         < z č c v b n m , . -
     shift: |
       ° ! " # $ % & / ( ) = ? `
-      Š W E R T Y U I O P Ž ¨
-      A S D F G H J K L Ö Ä '
-        < Z Č C V B N M , . -
+      Š W E R T Y U I O P Ž ^
+      A S D F G H J K L Ö Ä *
+        < Z Č C V B N M ; : _
     caps: |
       § 1 2 3 4 5 6 7 8 9 0 + ´
-      Š W E R T Y U I O P Ž ¨
-      A S D F G H J K L Ö Ä '
-        < Z Č C V B N M , . -
+      Š W E R T Y U I O P Ž ^
+      A S D F G H J K L Ö Ä *
+        < Z Č C V B N M ; : _
     alt: |
       ¶ © ™ £ € ˆ § | [ ] ˝ ± \u{301}
         q w é ˇ y Þ ˀ ʼ ø ˙ å ¨
@@ -139,9 +139,9 @@ modes:
         < z č c v b n m , . -
     shift: |
       ½ ! " # ¤ % & / ( ) = ? `
-      Š W E R T Y U I O P Ž ¨
-      A S D F G H J K L Ö Ä '
-        < Z Č C V B N M , . -
+      Š W E R T Y U I O P Ž ^
+      A S D F G H J K L Ö Ä *
+        > Z Č C V B N M ; : _
     caps: |
       § 1 2 3 4 5 6 7 8 9 0 + ´
       š w e r t y u i o p ž ¨
@@ -149,9 +149,9 @@ modes:
         < z č c v b n m , . -
     caps+shift: |
       ½ ! " # ¤ % & / ( ) = ? `
-      š w e r t y u i o p ž ¨
-      a s d f g h j k l ö ä '
-        < z č c v b n m , . -
+      š w e r t y u i o p ž ^
+      a s d f g h j k l ö ä *
+        > z č c v b n m ; : _
     alt: |
       | \u{0} @ £ $     €     \u{0} {     [     ]     }     \ \u{0}
         q     w € \u{0} ŧ     \u{0} ø     ï     õ     \u{0} å ~
@@ -170,24 +170,24 @@ modes:
   chrome:
     default: |
       § 1 2 3 4 5 6 7 8 9 0 + ´
-        á š e r t y u i o p â ŋ
-        a s d f g h j k l đ ä '
-      ž z č c v b n m , . -
+      š w e r t y u i o p ž ¨
+      a s d f g h j k l ö ä '
+        < z č c v b n m , . -
     shift: |
       ½ ! " # ¤ % & / ( ) = ? `
-        Á Š E R T Y U I O P Â Ŋ
-        A S D F G H J K L Đ Ä *
-      Ž Z Č C V B N M ; : _
+      Š W E R T Y U I O P Ž ^
+      A S D F G H J K L Ö Ä *
+        > Z Č C V B N M ; : _
     caps: |
       § 1 2 3 4 5 6 7 8 9 0 + ´
-        Á Š E R T Y U I O P Â Ŋ
-        A S D F G H J K L Đ Ä *
-      Ž Z Č C V B N M , . -
+      š w e r t y u i o p ž ¨
+      a s d f g h j k l ö ä '
+        < z č c v b n m , . -
     caps+shift: |
       ½ ! " # ¤ % & / ( ) = ? `
-        á š e r t y u i o p â ŋ
-        a s d f g h j k l đ ä '
-      ž z č c v b n m ; : _
+      š w e r t y u i o p ž ^
+      a s d f g h j k l ö ä *
+        > z č c v b n m ; : _
     alt: |
       | \u{0} @ £ $     €     \u{0} {     [     ]     }     \ \u{0}
         q     w € \u{0} ŧ     \u{0} ø     ï     õ     \u{0} å ~

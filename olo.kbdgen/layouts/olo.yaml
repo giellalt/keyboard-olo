@@ -788,11 +788,9 @@ space:
 
 targets:
   ios:
-    legacyName: livvi_karjala_keyboard
     spellerPackageKey: https://pahkat.uit.no/main/packages/speller-olo?platform=mobile
     spellerPath: olo.bhfst
   android:
-    legacyName: livvi_karjala_keyboard
     spellerPackageKey: https://pahkat.uit.no/main/packages/speller-olo?platform=mobile
     spellerPath: olo.bhfst
   win:

@@ -777,7 +777,7 @@ transforms:
 
 strings:
   space: väli
-  return: uuši rivi
+  return: "uuši rivi"
 space:
   mac:
     caps: '\u{A0}'

@@ -253,6 +253,7 @@ transforms:
   '-':
     ' ': '-'
     b: ƀ
+    B: Ƀ
     d: đ
     D: Đ
     g: ǥ
@@ -268,6 +269,7 @@ transforms:
     t: ŧ
     T: Ŧ
     u: ʉ
+    U: Ʉ
     z: ƶ
     Z: Ƶ
   ',':
@@ -330,8 +332,8 @@ transforms:
     O: Ò
     u: ù
     U: Ù
-    v: ǜ
-    V: Ǜ
+    v: v\u{300}
+    V: V\u{300}
     w: ẁ
     W: Ẁ
     'y': ỳ
@@ -372,8 +374,8 @@ transforms:
     S: Ś
     u: ú
     U: Ú
-    v: ǘ
-    V: Ǘ
+    v: v\u{301}
+    V: V\u{301}
     w: ẃ
     W: Ẃ
     'y': ý

@@ -1,5 +1,5 @@
 displayNames:
-  olo: Livvi Karelian
+  olo: Liygi
   en: Livvi Karelian
 android:
   config:
@@ -8,11 +8,11 @@ android:
   primary:
     layers:
       default: |
-        š w e r t y u i o p ž
+        š w e r t y u i o p ʼ
         a s d f g h j k l ö ä
         \s{shift} , z č c v b n m , \s{backspace}
       shift: |
-        Š W E R T Y U I O P Ž
+        Š W E R T Y U I O P ʼ
         A S D F G H J K L Ö Ä
         \s{shift} , Z Č C V B N M , \s{backspace}
   tablet-600:
@@ -124,7 +124,7 @@ macOS:
           ¯ ß ð ƒ . ˛ ˘ ˜ - ö æ @
         ≤ ÷ x ¸ ‹ › ‘ ’ ‚ … –
       alt+shift: |
-        • ¡       ® ¥       ¢       \u{302} ¶       \       {       }       \u{30B} ¿       \u{300}
+        • ¡       ® ¥       ¢       ʼ ¶       \       {       }       \u{30B} ¿       \u{300}
           Q       W É       \u{30C} Þ       Y       \u{309} \u{31B} Ø       \u{307} \u{30A} \u{308}
           \u{304} № Ð       ʔ       \u{323} \u{328} \u{306} \u{303} \u{335} Ö       Æ       *
         ≥ ⁄       X \u{327} «       »       “       ”       „       ·       —
@@ -199,7 +199,7 @@ windows:
           á     ß ð ǥ     ǧ     ȟ     \u{0} ǩ     \u{0} ö     æ \u{0}
         ǯ ʒ     x ç \u{0} \u{0} \u{0} µ     \u{0} \u{0} \u{0}
       alt+shift: |
-        \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0}
+        \u{0} \u{0} \u{0} \u{0} \u{0} ʼ \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0}
               Q     W     \u{0} \u{0} Ŧ     \u{0} Ø     Ï     Õ     \u{0} Å     \u{0}
               \u{0} SS    Ð     Ǥ     Ǧ     Ȟ     \u{0} Ǩ     \u{0} Ö     Æ     \u{0}
         Ǯ     Ʒ     X     Ç     \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0}
@@ -245,7 +245,7 @@ chromeOS:
           á     ß ð ǥ     ǧ     ȟ     \u{0} ǩ     \u{0} ö     æ \u{0}
         ǯ ʒ     x ç \u{0} \u{0} \u{0} µ     \u{0} \u{0} \u{0}
       alt+shift: |
-        \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0}
+        \u{0} \u{0} \u{0} \u{0} \u{0} ʼ \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0}
               Q     W     \u{0} \u{0} Ŧ     \u{0} Ø     Ï     Õ     \u{0} Å     \u{0}
               \u{0} SS    Ð     Ǥ     Ǧ     Ȟ     \u{0} Ǩ     \u{0} Ö     Æ     \u{0}
         Ǯ     Ʒ     X     Ç     \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0}
@@ -332,8 +332,6 @@ transforms:
     O: Ò
     u: ù
     U: Ù
-    v: v\u{300}
-    V: V\u{300}
     w: ẁ
     W: Ẁ
     'y': ỳ
@@ -374,8 +372,6 @@ transforms:
     S: Ś
     u: ú
     U: Ú
-    v: v\u{301}
-    V: V\u{301}
     w: ẃ
     W: Ẃ
     'y': ý
@@ -498,8 +494,6 @@ transforms:
     I: Ï
     o: ö
     O: Ö
-    t: ẗ
-    T: T\u{308}
     u: ü
     U: Ü
     w: ẅ
@@ -624,8 +618,8 @@ transforms:
     U: Ǔ
     v: ǚ
     V: Ǚ
-    x: ʒ\u{30C}
-    X: Ʒ\u{30C}
+    x: ǯ
+    X: Ǯ
     z: ž
     Z: Ž
   ƒ:
@@ -782,7 +776,7 @@ longpress:
   Š: W
   T: Ŧ
   V: W
-  Z: Ǯ Ʒ
+  Z: Ǯ Ʒ Ž
   a: á å â ä æ â
   á: q
   c: ç
@@ -797,7 +791,7 @@ longpress:
   š: w
   t: ŧ
   v: w
-  z: ǯ ʒ
+  z: ǯ ʒ ž
   '%': ‰ ∞
   '=': ≠ ≈
   '-': _ – — •

@@ -1,4 +1,4 @@
-# Documentation for the Livvi keyboards
+# Documentation for the Livvi Karelian keyboards
 
 # Layouts
 

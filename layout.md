@@ -1,4 +1,4 @@
-# Keyboard layout(s) for Livvi
+# Keyboard layout(s) for Livvi Karelian
 
 **Legend:**
 
@@ -10,3 +10,8 @@
 # Keyboard Layouts
 
 No keyboard layout defined yet!
+
+# Installation
+
+Please use the Divvun Manager to install all available tools for Livvi Karelian.
+It can be found on [divvun.no](https://divvun.no) and [divvun.org](https://divvun.org).

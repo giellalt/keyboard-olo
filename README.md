@@ -1,4 +1,4 @@
-# Keyboards for Livvi
+# Keyboards for Livvi Karelian
 
 [![GitHub issues](https://img.shields.io/github/issues-raw/giellalt/keyboard-olo)](https://github.com/giellalt/keyboard-olo/issues)
 [![Build Status](https://github.com/giellalt/keyboard-olo/workflows/Build%20Keyboards/badge.svg)](https://github.com/giellalt/keyboard-olo/actions)
@@ -6,7 +6,7 @@
 [![License](https://img.shields.io/github/license/giellalt/keyboard-olo)](https://github.com/giellalt/keyboard-olo/blob/main/LICENSE)
 
 This repository contains source files for
-keyboards for the Livvi language. The code
+keyboards for the Livvi Karelian language. The code
 is licensed under the LGPLv3 license, and the license is
 also detailed in the [LICENSE](LICENSE) file. The authors named
 in the AUTHORS file are available for other licensing options.

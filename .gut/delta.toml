@@ -5,5 +5,5 @@ template_sha = "43631dc24c0223786be78636665a5316e338004b"
 [replacements]
 __LICENSE__ = "LGPLv3"
 __UND2C__ = "olo"
-__UNDEFINED__ = "Livvi"
+__UNDEFINED__ = "Livvi Karelian"
 __UND__ = "olo"

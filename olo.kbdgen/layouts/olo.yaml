@@ -18,7 +18,7 @@
 
 displayNames:
   olo: Liygi
-  krl: Livvinkarjala # not sure at all actually!!
+  krl: Livvinkarjala
   fi: Livvinkarjala
   en: Livvi Karelian
   sms: Livvikaʹrjjelǩiõll # maybe incorrect
@@ -31,21 +31,21 @@ android:
       default: |
         š w e r t y u i o p ʼ
         a s d f g h j k l ö ä
-        \s{shift} ž z č c v b n m , \s{backspace}
+        \s{shift} ž z č c v b n m \s{backspace}
       shift: | 
         Š W E R T Y U I O P ʼ
         A S D F G H J K L Ö Ä
-        \s{shift} Ž Z Č C V B N M , \s{backspace}
+        \s{shift} Ž Z Č C V B N M \s{backspace}
   tablet-600:
     layers:
       default: |
         š w e r t y u i o p ʼ
         a s d f g h j k l ö ä
-        \s{shift} ž z č c v b n m , \s{backspace}
+        \s{shift} ž z č c v b n m \s{backspace}
       shift: |
         Š W E R T Y U I O P ʼ
         A S D F G H J K L Ö Ä
-        \s{shift} Ž Z Č C V B N M , \s{backspace}
+        \s{shift} Ž Z Č C V B N M \s{backspace}
 iOS:
   config:
     spellerPackageKey: https://pahkat.uit.no/main/packages/speller-olo?platform=mobile
@@ -793,7 +793,7 @@ transforms:
     u: ũ
     U: Ũ
 longpress:
-  A: Ä Á Å Â Æ À
+  A: Á Å Â Æ À Ä
   E: É È Ë
   I: Ï Í
   O: Ö Õ Ø Ó Ő
@@ -813,7 +813,7 @@ longpress:
   C: Č Ç
   Č: X
 
-  a: ä á å â æ à
+  a: á å â æ à ä
   e: é è ë
   i: ï í
   o: ö õ ø ó ő

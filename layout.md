@@ -1,17 +1,43 @@
-# Keyboard layout(s) for Livvi Karelian
+---
+layout: default
+---
 
-**Legend:**
+# Keyboard layouts for Livvi Karelian / Liygi
 
-| Mode       | Default | AltGr/Option | Caps Lock (Mode Switch) | Caps Lock + AltGr/Option |
-| ----------:|:-------:|:------------:|:-----------------------:|:------------------------:|
-|**Standard**| black   | red          | blue                    | purple                   |
-|**Deadkey** | green   | orange       | pink                    | green                    |
+> Tip: These keyboards are interactive — click or tap keys to explore different layers (Shift, Alt, etc.)
 
-# Keyboard Layouts
+## Mac
 
-No keyboard layout defined yet!
+<iframe src="https://keyboard.giellalt.org/embed?kbd=olo&layout=olo&platform=macOS&variant=primary"></iframe>
 
-# Installation
+## Windows
 
-Please use the Divvun Manager to install all available tools for Livvi Karelian.
-It can be found on [divvun.no](https://divvun.no) and [divvun.org](https://divvun.org).
+<iframe src="https://keyboard.giellalt.org/embed?kbd=olo&layout=olo&platform=windows&variant=primary"></iframe>
+
+## ChromeOS
+
+<iframe src="https://keyboard.giellalt.org/embed?kbd=olo&layout=olo&platform=chromeOS&variant=primary"></iframe>
+
+## Android
+
+### Phone
+
+<iframe src="https://keyboard.giellalt.org/embed?kbd=olo&layout=olo&platform=android&variant=primary"></iframe>
+
+### Tablet
+
+<iframe src="https://keyboard.giellalt.org/embed?kbd=olo&layout=olo&platform=android&variant=tablet-600"></iframe>
+
+## iOS/iPadOS
+
+### iPhone
+
+<iframe src="https://keyboard.giellalt.org/embed?kbd=olo&layout=olo&platform=iOS&variant=primary"></iframe>
+
+### 9" iPad
+
+<iframe src="https://keyboard.giellalt.org/embed?kbd=olo&layout=olo&platform=iOS&variant=iPad-9in"></iframe>
+
+### 12" iPad
+
+<iframe src="https://keyboard.giellalt.org/embed?kbd=olo&layout=olo&platform=iOS&variant=iPad-12in"></iframe>
